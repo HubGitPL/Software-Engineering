@@ -15,7 +15,7 @@ The project involved defining the system's vision and creating UML diagrams, inc
 ## Technology
 We used Enterprise Architect to model the system. The project is done in polish.
 
-## Team member
+## Team members
 Mateusz Fydrych
 
 Jan Krupiniewicz
