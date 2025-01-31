@@ -18,6 +18,6 @@ We used Enterprise Architect to model the system. The project is done in polish.
 ## Team members
 Mateusz Fydrych
 
-Jan Krupiniewicz
+Jan Krupiniewicz https://github.com/JanKrupiniewicz
 
-Marcin Araśniewicz
+Marcin Araśniewicz https://github.com/arasniewiczMarcin
